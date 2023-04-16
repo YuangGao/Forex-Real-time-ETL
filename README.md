@@ -1,4 +1,4 @@
-# Forex_Real-time-ETL
+# Forex Real-time ETL Investment System
 This system collects price data from Polygon every six minutes and uses it to inform investment decisions through a portfolio class. The system includes several classes for data analysis and investment management.
 
 ## Tools Used
